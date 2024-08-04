@@ -1,0 +1,242 @@
+﻿@model SanskariVidhyalay.Models.StudentEntries
+@{
+    ViewData["Title"] = "Student Details";
+}
+<div class="container bg-dark bg-opacity-25 p-4 rounded">
+    <h2 class="text-center my-4">Student Details</h2>
+
+    <form asp-action="StudentDetails" method="post" class="container p-4 rounded">
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="StudentFirstName" class="form-label">First Name</label>
+                <input asp-for="StudentFirstName" class="form-control" placeholder="Enter First Name" />
+                <span asp-validation-for="StudentFirstName" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="StudentLastName" class="form-label">Last Name</label>
+                <input asp-for="StudentLastName" class="form-control" placeholder="Enter Last Name" />
+                <span asp-validation-for="StudentLastName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="Standard" class="form-label"></label>
+                <input asp-for="Standard" class="form-control" placeholder="Standard" />
+                <span asp-validation-for="Standard" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="Medium" class="form-label"></label>
+                <select asp-for="Medium" class="form-control">
+                    <option value="">Select Medium</option>
+                    <option value="English">English</option>
+                    <option value="Gujarati">Gujarati</option>
+                    <option value="Marathi">Marathi</option>
+                    <option value="Hindi">Hindi</option>
+                </select>
+                <span asp-validation-for="Medium" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="DateofBirth" class="form-label">Date of Birth</label>
+                <input asp-for="DateofBirth" class="form-control" type="date" />
+                <span asp-validation-for="DateofBirth" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="MobileNumber" class="form-label">Mobile Number</label>
+                <input asp-for="MobileNumber" class="form-control" placeholder="Enter Mobile Number" />
+                <span asp-validation-for="MobileNumber" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="AlternativeMobileNumber" class="form-label">Alternative Mobile Number</label>
+                <input asp-for="AlternativeMobileNumber" class="form-control" placeholder="Alternative Mobile Number" />
+                <span asp-validation-for="AlternativeMobileNumber" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address" class="form-label"></label>
+            <input asp-for="Address" class="form-control" placeholder="Address" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="City" class="form-label"></label>
+                <select asp-for="City" class="form-control">
+                    <option value="">Select City</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Bangalore">Bangalore</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Ahmedabad">Ahmedabad</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Kolkata">Kolkata</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Jaipur">Jaipur</option>
+                    <option value="Surat">Surat</option>
+                    <option value="Lucknow">Lucknow</option>
+                    <option value="Kanpur">Kanpur</option>
+                    <option value="Nagpur">Nagpur</option>
+                    <option value="Patna">Patna</option>
+                    <option value="Indore">Indore</option>
+                    <option value="Vadodara">Vadodara</option>
+                    <option value="Bhopal">Bhopal</option>
+                    <option value="Coimbatore">Coimbatore</option>
+                    <option value="Ludhiana">Ludhiana</option>
+                    <option value="Agra">Agra</option>
+                    <option value="Nashik">Nashik</option>
+                    <option value="Faridabad">Faridabad</option>
+                    <option value="Meerut">Meerut</option>
+                    <option value="Rajkot">Rajkot</option>
+                    <option value="Kalyan-Dombivli">Kalyan-Dombivli</option>
+                    <option value="Vasai-Virar">Vasai-Virar</option>
+                    <option value="Varanasi">Varanasi</option>
+                    <option value="Srinagar">Srinagar</option>
+                    <option value="Aurangabad">Aurangabad</option>
+                    <option value="Dhanbad">Dhanbad</option>
+                    <option value="Amritsar">Amritsar</option>
+                    <option value="Navi Mumbai">Navi Mumbai</option>
+                    <option value="Allahabad">Allahabad</option>
+                    <option value="Howrah">Howrah</option>
+                    <option value="Ranchi">Ranchi</option>
+                    <option value="Gwalior">Gwalior</option>
+                    <option value="Jabalpur">Jabalpur</option>
+                    <option value="Guwahati">Guwahati</option>
+                    <option value="Chandigarh">Chandigarh</option>
+                    <option value="Solapur">Solapur</option>
+                    <option value="Hubballi-Dharwad">Hubballi-Dharwad</option>
+                    <option value="Tiruchirappalli">Tiruchirappalli</option>
+                    <option value="Bareilly">Bareilly</option>
+                    <option value="Mysore">Mysore</option>
+                    <option value="Tiruppur">Tiruppur</option>
+                    <option value="Gurgaon">Gurgaon</option>
+                    <option value="Aligarh">Aligarh</option>
+                    <option value="Jalandhar">Jalandhar</option>
+                    <option value="Bhubaneswar">Bhubaneswar</option>
+                    <option value="Salem">Salem</option>
+                    <option value="Mira-Bhayandar">Mira-Bhayandar</option>
+                    <option value="Warangal">Warangal</option>
+                    <option value="Thiruvananthapuram">Thiruvananthapuram</option>
+                    <option value="Guntur">Guntur</option>
+                    <option value="Bhiwandi">Bhiwandi</option>
+                    <option value="Saharanpur">Saharanpur</option>
+                    <option value="Gorakhpur">Gorakhpur</option>
+                    <option value="Bikaner">Bikaner</option>
+                    <option value="Amravati">Amravati</option>
+                    <option value="Noida">Noida</option>
+                    <option value="Jamshedpur">Jamshedpur</option>
+                    <option value="Bhilai">Bhilai</option>
+                    <option value="Cuttack">Cuttack</option>
+                    <option value="Firozabad">Firozabad</option>
+                    <option value="Kochi">Kochi</option>
+                </select>
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="Region" class="form-label"></label>
+                <select asp-for="Region" class="form-control">
+                    <option value="">Select Region</option>
+                    <option value="Andhra Pradesh">Andhra Pradesh</option>
+                    <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                    <option value="Assam">Assam</option>
+                    <option value="Bihar">Bihar</option>
+                    <option value="Chhattisgarh">Chhattisgarh</option>
+                    <option value="Goa">Goa</option>
+                    <option value="Gujarat">Gujarat</option>
+                    <option value="Haryana">Haryana</option>
+                    <option value="Himachal Pradesh">Himachal Pradesh</option>
+                    <option value="Jharkhand">Jharkhand</option>
+                    <option value="Karnataka">Karnataka</option>
+                    <option value="Kerala">Kerala</option>
+                    <option value="Madhya Pradesh">Madhya Pradesh</option>
+                    <option value="Maharashtra">Maharashtra</option>
+                    <option value="Manipur">Manipur</option>
+                    <option value="Meghalaya">Meghalaya</option>
+                    <option value="Mizoram">Mizoram</option>
+                    <option value="Nagaland">Nagaland</option>
+                    <option value="Odisha">Odisha</option>
+                    <option value="Punjab">Punjab</option>
+                    <option value="Rajasthan">Rajasthan</option>
+                    <option value="Sikkim">Sikkim</option>
+                    <option value="Tamil Nadu">Tamil Nadu</option>
+                    <option value="Telangana">Telangana</option>
+                    <option value="Tripura">Tripura</option>
+                    <option value="Uttar Pradesh">Uttar Pradesh</option>
+                    <option value="Uttarakhand">Uttarakhand</option>
+                    <option value="West Bengal">West Bengal</option>
+                </select>
+                <span asp-validation-for="Region" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="PostalCode" class="form-label">Postal Code</label>
+                <input asp-for="PostalCode" class="form-control" />
+                <span asp-validation-for="PostalCode" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="d-grid gap-2 col-6 mx-auto">
+            <button type="button" class="btn btn-primary btn-block" data-bs-toggle="modal" data-bs-target="#submitModal">Submit</button>
+        </div>
+
+        <!-- Modal for Submission -->
+        <div class="modal fade" id="submitModal" tabindex="-1" aria-labelledby="submitModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="submitModalLabel">Confirm Submission</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            Notice: Please ensure that all the input fields have been filled in correctly. Are you sure you have entered valid input?
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-secondary" data-bs-dismiss="modal">Confirm</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </form>
+</div>
+
+<div class="mt-4">
+    <h4>Form Introduction</h4>
+    <p>Welcome to the student details form. Please fill in all the required fields to provide the necessary information about the student. Ensure that all details are accurate and up to date. If you have any questions or need assistance, please contact our support team. Thank you for your cooperation.</p>
+
+    <h5>Instructions for Filling Out the Form</h5>
+    <ul>
+        <li><strong>First Name:</strong> Enter the student's first name using alphabets only. Avoid using numbers or special characters.</li>
+        <li><strong>Last Name:</strong> Enter the student's last name using alphabets only. Avoid using numbers or special characters.</li>
+        <li><strong>Standard:</strong> Enter the current standard/class the student is enrolled in. Use numeric values (e.g., 5, 10).</li>
+        <li><strong>Medium:</strong> Select the medium of instruction from the dropdown menu.</li>
+        <li><strong>Date of Birth:</strong> Select the student's date of birth from the date picker. Ensure the format is correct (DD/MM/YYYY).</li>
+        <li><strong>Mobile Number:</strong> Enter the student's mobile number. It should be a valid 10-digit number.</li>
+        <li><strong>Alternative Mobile Number:</strong> Enter an alternative contact number. It should be a valid 10-digit number.</li>
+        <li><strong>Address:</strong> Provide the complete address where the student resides. Include street, locality, etc.</li>
+        <li><strong>City:</strong> Select the city from the dropdown menu. If your city is not listed, select the closest major city.</li>
+        <li><strong>Region:</strong> Select the state/region from the dropdown menu.</li>
+        <li><strong>Postal Code:</strong> Enter the postal code of the address. It should be a valid 6-digit number.</li>
+    </ul>
+
+    <h5>Writing Guidelines</h5>
+    <ul>
+        <li>Ensure all information provided is accurate and up to date.</li>
+        <li>Double-check spelling and number entries to avoid errors.</li>
+        <li>Use proper capitalization for names and addresses.</li>
+        <li>Review the form before submitting to ensure all fields are completed.</li>
+    </ul>
+
+    <p>If you encounter any issues while filling out the form, feel free to contact our support team for assistance. We are here to help you ensure a smooth and efficient process. Thank you!</p>
+
+</div>
+
+
+
+
+@* @section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+ *@
+

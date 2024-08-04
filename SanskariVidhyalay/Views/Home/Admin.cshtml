@@ -1,0 +1,78 @@
+﻿@model SanskariVidhyalay.Models.Listofmodel 
+
+<div class="container bg-light p-4 rounded mt-4">
+    <div class="jumbotron text-center bg-primary text-white p-5 rounded">
+        <h1 class="display-4">Admin Panel</h1>
+        <p class="lead">View and Manage Student Data</p>
+    </div>
+    <br />
+    <table id="studentTable" class="table table-bordered display">
+        <thead>
+            <tr class="bg-light text-black">
+                <th>ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Standard</th>
+                <th>Medium</th>
+                <th>Date of Birth</th>
+                <th>Mobile Number</th>
+                <th>Alternative Mobile Number</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Region</th>
+                <th>Postal Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var data in Model.StudentEntries)
+            {
+                <tr class="bg-light">
+                    <td>@data.StudentID</td>
+                    <td>@data.StudentFirstName</td>
+                    <td>@data.StudentLastName</td>
+                    <td>@data.Standard</td>
+                    <td>@data.Medium</td>
+                    <td>@data.DateofBirth</td>
+                    <td>@data.MobileNumber</td>
+                    <td>@data.AlternativeMobileNumber</td>
+                    <td>@data.Address</td>
+                    <td>@data.City</td>
+                    <td>@data.Region</td>
+                    <td>@data.PostalCode</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+
+    <div class="container bg-light p-4 rounded mt-4">
+        <div class="jumbotron text-center bg-primary text-white p-5 rounded">
+            <h1 class="display-4">Contact us Panel</h1>
+            <p class="lead">View and Manage Contact us Panel</p>
+        </div>
+    </div>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email Address</th>
+            <th>Subject</th>
+            <th>Message</th>
+        </tr>
+
+        @foreach (var ContactData in Model.Contacts)
+        {
+            <tr>
+                <td>@ContactData.No</td>
+                <td>@ContactData.Name</td>
+                <td>@ContactData.Email</td>
+                <td>@ContactData.Subject</td>
+                <td>@ContactData.Message</td>
+            </tr>
+            <tr>
+                <td><br /></td>
+            </tr>
+        }
+        
+    </table>
+</div>

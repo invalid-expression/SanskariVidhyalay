@@ -1,0 +1,78 @@
+﻿@model SanskariVidhyalay.Models.Contact
+@{
+    ViewData["Title"] = "Contact Us";
+}    
+
+<!-- Container for background -->
+<div class="container bg-light p-4 rounded mt-4">
+    <div class="jumbotron text-center bg-primary text-white p-5 rounded">
+        <h1 class="display-4">Contact Us</h1>
+        <p class="lead">We'd love to hear from you! Get in touch with us for any queries or information.</p>
+    </div>
+
+    <div class="row my-5">
+        <div class="col-md-6">
+            <h2>Our Address</h2>
+            <p>
+                Sanskari Vidhyalay<br>
+                123 Education Street<br>
+                Learning City, State 45678<br>
+                India
+            </p>
+            <p>
+                <strong>Phone:</strong> +91 123 456 7890<br>
+                <strong>Email:</strong> contact@sanskarividhyalay.com
+            </p>
+            <h2>Office Hours</h2>
+            <p>
+                Monday - Friday: 8:00 AM - 5:00 PM<br>
+                Saturday: 9:00 AM - 2:00 PM<br>
+                Sunday: Closed
+            </p>
+        </div>
+        <div class="col-md-6">
+            <h2>Send Us a Message</h2>
+            <form asp-action="Contact" method="post">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input type="text" class="form-control" asp-for="Name" placeholder="Enter your name" required>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email">Email address</label>
+                    <input type="email" class="form-control" asp-for="Email" placeholder="Enter your email" required>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Subject">Subject</label>
+                    <input type="text" class="form-control" asp-for="Subject" placeholder="Subject" required>
+                    <span asp-validation-for="Subject" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Message">Message</label>
+                    <textarea class="form-control" asp-for="Message" rows="5" placeholder="Your message" required></textarea>
+                    <span asp-validation-for="Message" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mt-3">Send Message</button>
+            </form>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row my-5">
+        <div class="col-md-12">
+            <h2>Find Us</h2>
+            <div id="map" style="height: 400px; width: 100%;">
+                <!-- Embed Google Map -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.501197132649!2d106.69507381533438!3d10.762622192330828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ef03b55f3df%3A0x2d7312d9b07056b2!2sHo%20Chi%20Minh%20City%20Hall!5e0!3m2!1sen!2s!4v1616589969352!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Custom scripts can be added here
+    </script>
+}

@@ -1,0 +1,138 @@
+﻿@{
+    ViewData["Title"] = "Events";
+}
+
+<!-- Container for background -->
+<div class="container bg-light p-4 rounded mt-4">
+    <div class="jumbotron text-center bg-primary text-white p-5 rounded">
+        <h1 class="display-4">Upcoming Events</h1>
+        <p class="lead">Join us for our upcoming events and activities.</p>
+    </div>
+
+    <div class="row my-5">
+        <div class="col-md-4">
+            <img src="https://plus.unsplash.com/premium_photo-1675706185690-ec1df49e6e34?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid rounded" alt="Annual Sports Day">
+        </div>
+        <div class="col-md-8">
+            <h2>Annual Sports Day</h2>
+            <p><strong>Date:</strong> August 15, 2024</p>
+            <p><strong>Time:</strong> 9:00 AM - 4:00 PM</p>
+            <p><strong>Location:</strong> School Sports Ground</p>
+            <p>
+                Our Annual Sports Day is a much-anticipated event where students showcase their athletic skills and compete in various sports activities. Parents and guardians are invited to join us and cheer for their children.
+            </p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#sportsDayModal">More Information</button>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row my-5">
+        <div class="col-md-4">
+            <img src="https://plus.unsplash.com/premium_photo-1661537992789-b1f58845cf6f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid rounded" alt="Science Exhibition">
+        </div>
+        <div class="col-md-8">
+            <h2>Science Exhibition</h2>
+            <p><strong>Date:</strong> September 10, 2024</p>
+            <p><strong>Time:</strong> 10:00 AM - 3:00 PM</p>
+            <p><strong>Location:</strong> School Auditorium</p>
+            <p>
+                The Science Exhibition is an excellent opportunity for students to present their scientific projects and experiments. This event encourages creativity and innovation among students.
+            </p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#scienceExhibitionModal">More Information</button>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row my-5">
+        <div class="col-md-4">
+            <img src="https://images.unsplash.com/photo-1463592177119-bab2a00f3ccb?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid rounded" alt="Cultural Fest">
+        </div>
+        <div class="col-md-8">
+            <h2>Cultural Fest</h2>
+            <p><strong>Date:</strong> October 5, 2024</p>
+            <p><strong>Time:</strong> 11:00 AM - 5:00 PM</p>
+            <p><strong>Location:</strong> School Grounds</p>
+            <p>
+                Join us for a celebration of diverse cultures at our annual Cultural Fest. Students will perform various cultural dances, songs, and drama to showcase the rich cultural heritage of our country.
+            </p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#culturalFestModal">More Information</button>
+        </div>
+    </div>
+
+    <!-- Modal for Annual Sports Day -->
+    <div class="modal fade" id="sportsDayModal" tabindex="-1" aria-labelledby="sportsDayModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="sportsDayModalLabel">Annual Sports Day - More Information</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        The Annual Sports Day will include a variety of sports events such as track and field, soccer, basketball, and more. There will be awards and medals for the winners. Refreshments will be provided for all participants.
+                    </p>
+                    <p>
+                        <strong>Contact:</strong> sports@sanskarividhyalay.com
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Science Exhibition -->
+    <div class="modal fade" id="scienceExhibitionModal" tabindex="-1" aria-labelledby="scienceExhibitionModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="scienceExhibitionModalLabel">Science Exhibition - More Information</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        The Science Exhibition will feature projects from various fields of science, including physics, chemistry, biology, and environmental science. Students will present their projects and explain their experiments and findings.
+                    </p>
+                    <p>
+                        <strong>Contact:</strong> science@sanskarividhyalay.com
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Cultural Fest -->
+    <div class="modal fade" id="culturalFestModal" tabindex="-1" aria-labelledby="culturalFestModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="culturalFestModalLabel">Cultural Fest - More Information</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        The Cultural Fest will include performances by students showcasing traditional dances, songs, and drama from various cultures. There will also be food stalls offering a variety of traditional cuisines.
+                    </p>
+                    <p>
+                        <strong>Contact:</strong> cultural@sanskarividhyalay.com
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Custom scripts can be added here
+    </script>
+}
