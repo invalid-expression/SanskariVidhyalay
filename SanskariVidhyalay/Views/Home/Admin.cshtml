@@ -1,4 +1,4 @@
-﻿@model SanskariVidhyalay.Models.Listofmodel 
+﻿@model SanskariVidhyalay.Models.Listofmodel
 
 <div class="container bg-light p-4 rounded mt-4">
     <div class="jumbotron text-center bg-primary text-white p-5 rounded">
@@ -21,6 +21,9 @@
                 <th>City</th>
                 <th>Region</th>
                 <th>Postal Code</th>
+                <th>Selected Branch</th>
+                <th>Edit Action</th>
+                <th>Delete </th>
             </tr>
         </thead>
         <tbody>
@@ -39,40 +42,45 @@
                     <td>@data.City</td>
                     <td>@data.Region</td>
                     <td>@data.PostalCode</td>
+                    <td>@data.Branch</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" href="@Url.Action("Edit","Home",new {StudentID = data.StudentID })">Edit</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-sm btn-danger" href="@Url.Action("Delete","Home",new {StudentID = data.StudentID })">Delete</a>
+                    </td>
                 </tr>
             }
         </tbody>
     </table>
     <br />
+</div>
 
-    <div class="container bg-light p-4 rounded mt-4">
-        <div class="jumbotron text-center bg-primary text-white p-5 rounded">
-            <h1 class="display-4">Contact us Panel</h1>
-            <p class="lead">View and Manage Contact us Panel</p>
-        </div>
+<div class="container bg-light p-4 rounded mt-4">
+    <div class="jumbotron text-center bg-primary text-white p-5 rounded">
+        <h1 class="display-4">Contact Us Panel</h1>
+        <p class="lead">View and Manage Contact Us Information</p>
     </div>
-    <table class="table">
-        <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Email Address</th>
-            <th>Subject</th>
-            <th>Message</th>
-        </tr>
-
-        @foreach (var ContactData in Model.Contacts)
-        {
+    <table class="table"> 
+        <thead>
             <tr>
-                <td>@ContactData.No</td>
-                <td>@ContactData.Name</td>
-                <td>@ContactData.Email</td>
-                <td>@ContactData.Subject</td>
-                <td>@ContactData.Message</td>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email Address</th>
+                <th>Subject</th>
+                <th>Message</th>
             </tr>
-            <tr>
-                <td><br /></td>
-            </tr>
-        }
-        
+        </thead>
+            @foreach (var ContactData in Model.Contacts)
+            {
+                <tr>
+                    <td>@ContactData.No</td>
+                    <td>@ContactData.Name</td>
+                    <td>@ContactData.Email</td>
+                    <td>@ContactData.Subject</td>
+                    <td>@ContactData.Message</td>
+                </tr>
+                
+            }
     </table>
 </div>

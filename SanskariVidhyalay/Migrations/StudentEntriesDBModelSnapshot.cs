@@ -38,6 +38,10 @@ namespace SanskariVidhyalay.Migrations
                         .HasColumnType("Varchar(15)")
                         .HasColumnName("Alternative Mobile Number");
 
+                    b.Property<string>("Branch")
+                        .IsRequired()
+                        .HasColumnType("Varchar(50)");
+
                     b.Property<string>("City")
                         .IsRequired()
                         .HasColumnType("Varchar(20)");

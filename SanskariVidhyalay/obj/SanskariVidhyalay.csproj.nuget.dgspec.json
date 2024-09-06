@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj": {}
+    "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj": {}
   },
   "projects": {
-    "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj": {
+    "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj",
+        "projectUniqueName": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj",
         "projectName": "SanskariVidhyalay",
-        "projectPath": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj",
+        "projectPath": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\SanskariVidhyalay.csproj",
         "packagesPath": "C:\\Users\\X3\\.nuget\\packages\\",
-        "outputPath": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\obj\\",
+        "outputPath": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\X3\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ConfigrationCenterServices": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -73,6 +81,10 @@
             "Serilog.Sinks.MSSqlServer": {
               "target": "Package",
               "version": "[6.6.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [

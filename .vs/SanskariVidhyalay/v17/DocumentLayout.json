@@ -1,129 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT FUTURE\\SanskariVidhyalay\\",
+  "WorkspaceRootPath": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\services\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\services\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\interface\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\interface\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\services\\studententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\services\\studententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\interface\\istudententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\interface\\istudententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\context\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\context\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240725064000_studententries.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240725064000_studententries.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\context\\studententriesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\context\\studententriesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\utility\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\utility\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\models\\studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\successmessage\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\successmessage\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\successmessage\\deleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\successmessage\\deleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\citiesdbmigrations\\20240806073127_addcitiesupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\citiesdbmigrations\\20240806073127_addcitiesupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\citiesdbmigrations\\20240806070601_addcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\citiesdbmigrations\\20240806070601_addcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\services\\icitiesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\services\\icitiesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\interface\\icities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\interface\\icities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\context\\citiesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\context\\citiesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\models\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240805153331_addbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240805153331_addbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\models\\studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\models\\data\\listofmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\models\\data\\listofmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\data\\listofmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240725064000_studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240725064000_studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\services\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\services\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\academics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\academics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\interface\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\interface\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\services\\studententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\services\\studententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\interface\\istudententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\interface\\istudententriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\addmissioncriteria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\addmissioncriteria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240725064845_studententriesaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240725064845_studententriesaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\migrations\\contactdbmigrations\\20240728153606_contactupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\contactdbmigrations\\20240728153606_contactupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\contactdbmigrations\\20240728153606_contactupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240728152409_studententriesaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240728152409_studententriesaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240728152409_studententriesaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|d:\\it future\\sanskarividhyalay\\sanskarividhyalay\\migrations\\contactdbmigrations\\20240728083339_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\contactdbmigrations\\20240728083339_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\contactdbmigrations\\20240728083339_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\context\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\context\\contactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\academics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\academics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\addmissioncriteria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\addmissioncriteria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\studentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240725064845_studententriesaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240725064845_studententriesaddcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\migrations\\20240725064000_studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\migrations\\20240725064000_studententries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\context\\studententriesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\context\\studententriesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|c:\\users\\x3\\source\\repos\\sanskarividhyalay\\sanskarividhyalay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56B3D92-7BC1-4526-B627-1312840EDA41}|SanskariVidhyalay\\SanskariVidhyalay.csproj|solutionrelative:sanskarividhyalay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -133,170 +198,279 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 43,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IContactServices.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\IContactServices.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Services\\IContactServices.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\IContactServices.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Services\\IContactServices.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwBEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T18:41:46.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IContact.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IContact.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Interface\\IContact.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IContact.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Interface\\IContact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T18:41:07.05Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:48:26.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentEntriesService.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\StudentEntriesService.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Services\\StudentEntriesService.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\StudentEntriesService.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Services\\StudentEntriesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T15:21:54.128Z"
+              "WhenOpened": "2024-09-06T06:34:27.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IStudentEntriesService.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T15:21:12.093Z"
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T06:38:17.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20240728153606_ContactUpdate.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Login.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T15:36:07.27Z"
+              "WhenOpened": "2024-08-22T08:19:28.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20240728152409_StudentEntriesAddress.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "20240725064000_StudentEntries.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.Designer.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.Designer.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.Designer.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T15:24:09.438Z"
+              "WhenOpened": "2024-08-16T08:55:50.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20240728152212_UpdateAdddress.cs",
-              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
-              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
+              "DocumentIndex": 7,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Utility\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Utility\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Utility\\ConnectionString.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Utility\\ConnectionString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T15:22:12.382Z"
+              "WhenOpened": "2024-08-14T15:29:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Success.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Success.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Success.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T10:29:37.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Deleted.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Deleted.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Deleted.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\SuccessMessage\\Deleted.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:50:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:26:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240806073127_AddCitiesUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806073127_AddCitiesUpdate.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806073127_AddCitiesUpdate.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806073127_AddCitiesUpdate.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806073127_AddCitiesUpdate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:31:28.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "20240806070601_AddCities.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806070601_AddCities.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806070601_AddCities.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806070601_AddCities.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\CitiesDBMigrations\\20240806070601_AddCities.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:06:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICitiesServices.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\ICitiesServices.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Services\\ICitiesServices.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\ICitiesServices.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Services\\ICitiesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:44:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICities.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\ICities.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Interface\\ICities.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\ICities.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Interface\\ICities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:40:31.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CitiesDB.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\CitiesDB.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Context\\CitiesDB.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\CitiesDB.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Context\\CitiesDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:35:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cities.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Cities.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\Cities.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Cities.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Models\\Cities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:31:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240805153331_AddBranch.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240805153331_AddBranch.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240805153331_AddBranch.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240805153331_AddBranch.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240805153331_AddBranch.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:33:31.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentEntries.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\StudentEntries.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\StudentEntries.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\StudentEntries.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Models\\StudentEntries.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAlwDkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:45:40.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Listofmodel.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Models\\Data\\Listofmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T13:45:42.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
-              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAIBJwEgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T12:28:04.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240728083339_Contact.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 20,
+              "Title": "IContactServices.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\IContactServices.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Services\\IContactServices.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\IContactServices.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Services\\IContactServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T08:33:39.927Z"
+              "WhenOpened": "2024-07-30T18:41:46.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ContactDB.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\ContactDB.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Context\\ContactDB.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\ContactDB.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Context\\ContactDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "DocumentIndex": 21,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IContact.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Interface\\IContact.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IContact.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Interface\\IContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T07:32:39.506Z"
+              "WhenOpened": "2024-07-30T18:41:07.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\Contact.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Contact.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Models\\Contact.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBUAAAAfAAAA",
+              "DocumentIndex": 22,
+              "Title": "StudentEntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\StudentEntriesService.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Services\\StudentEntriesService.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Services\\StudentEntriesService.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Services\\StudentEntriesService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T07:24:08.563Z"
+              "WhenOpened": "2024-07-29T15:21:54.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T07:08:14.29Z"
+              "DocumentIndex": 23,
+              "Title": "IStudentEntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Interface\\IStudentEntriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:21:12.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Departments.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Departments.cshtml",
               "ViewState": "AQIAADwAAAAAAAAAAAAwwEkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -304,11 +478,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
+              "Title": "20240728153606_ContactUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728153606_ContactUpdate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:36:07.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240728152409_StudentEntriesAddress.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240728152409_StudentEntriesAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:24:09.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240728152212_UpdateAdddress.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240728152212_UpdateAdddress.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:22:12.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:28:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240728083339_Contact.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Migrations\\ContactDBMigrations\\20240728083339_Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:33:39.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ContactDB.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\ContactDB.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Context\\ContactDB.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\ContactDB.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Context\\ContactDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:32:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\Contact.cs",
+              "RelativeToolTip": "SanskariVidhyalay\\Models\\Contact.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:24:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T07:08:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Academics.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Academics.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -316,83 +585,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "Events.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Events.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Events.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Events.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Events.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAIBJwD8AAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-27T14:44:39.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "AddmissionCriteria.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\AddmissionCriteria.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAACBjwCQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-26T17:17:25.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABNAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAACBjwCUAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-26T17:01:35.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 36,
               "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAIBJwFsAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAACBjwFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-26T16:55:43.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 37,
               "Title": "StudentDetails.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\StudentDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAjwAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-25T06:55:55.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAcAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACsAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-25T06:53:13.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -400,11 +669,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -412,11 +681,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SanskariVidhyalay\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -424,11 +693,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "20240725064845_StudentEntriesAddColumn.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240725064845_StudentEntriesAddColumn.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwCAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,74 +705,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 43,
               "Title": "20240725064000_StudentEntries.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Migrations\\20240725064000_StudentEntries.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T06:40:01.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAoAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwJIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T06:16:32.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\appsettings.json",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\appsettings.json",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\appsettings.json",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\appsettings.json",
               "RelativeToolTip": "SanskariVidhyalay\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-25T06:13:26.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 45,
               "Title": "StudentEntriesDB.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Context\\StudentEntriesDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T06:06:15.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentEntries.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\StudentEntries.cs",
-              "RelativeDocumentMoniker": "SanskariVidhyalay\\Models\\StudentEntries.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Models\\StudentEntries.cs",
-              "RelativeToolTip": "SanskariVidhyalay\\Models\\StudentEntries.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:45:40.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 46,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Program.cs",
               "RelativeDocumentMoniker": "SanskariVidhyalay\\Program.cs",
-              "ToolTip": "D:\\IT FUTURE\\SanskariVidhyalay\\SanskariVidhyalay\\Program.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\SanskariVidhyalay\\SanskariVidhyalay\\Program.cs",
               "RelativeToolTip": "SanskariVidhyalay\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA5AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T14:25:10.593Z"
             }

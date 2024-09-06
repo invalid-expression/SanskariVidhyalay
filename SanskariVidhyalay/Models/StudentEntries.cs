@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Humanizer.Localisation;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Drawing;
 
 namespace SanskariVidhyalay.Models
 {
 	public class StudentEntries
-	{
+    {
 		[Key] public int StudentID { get; set; }
 
 		[Column("First Name", TypeName = "Varchar(15)")]
@@ -41,14 +43,30 @@ namespace SanskariVidhyalay.Models
 		[Required]
 		public string City { get; set; }
 
+		//public List<Cities> City;
+
 		[Column(TypeName = "Varchar(15)")]
 		[Required]
 		public string Region { get; set; }
-
 
 		[Column("Pin Code", TypeName = "int")]
 		[Required]
 		public int PostalCode { get; set; }
 
+        [Column(TypeName = "Varchar(50)")]
+        [Required]
+        public string Branch { get; set; }
+
+    }
+	public enum Branch
+	{
+		Udhana = 120,
+		Bhestan,
+		Sachin,
+		Varaccha,
+		Punagam,
+		Limbayat,
+        Vesu
 	}
+    
 }

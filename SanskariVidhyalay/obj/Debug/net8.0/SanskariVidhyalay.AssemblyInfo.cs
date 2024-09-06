@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SanskariVidhyalay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5eb7e3434a20ef6781fe0b27743a753e9f77fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("SanskariVidhyalay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SanskariVidhyalay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

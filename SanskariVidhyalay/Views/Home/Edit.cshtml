@@ -1,0 +1,124 @@
+﻿@model SanskariVidhyalay.Models.StudentEntries
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="container bg-dark bg-opacity-25 p-4 rounded">
+    <h2 class="text-center my-4">Edit & Manage Student Details</h2>
+
+    <form asp-controller="Home" method="post" class="container p-4 rounded">
+        <input asp-for="StudentID" type="hidden" />
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="StudentFirstName" class="form-label">First Name</label>
+                <input asp-for="StudentFirstName" class="form-control" placeholder="Enter First Name" />
+                <span asp-validation-for="StudentFirstName" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="StudentLastName" class="form-label">Last Name</label>
+                <input asp-for="StudentLastName" class="form-control" placeholder="Enter Last Name" />
+                <span asp-validation-for="StudentLastName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="Standard" class="form-label">Standard</label>
+                <input asp-for="Standard" class="form-control" placeholder="Standard" />
+                <span asp-validation-for="Standard" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="Medium" class="form-label">Medium</label>
+                <select asp-for="Medium" class="form-control">
+                    <option value="">Select Medium</option>
+                    <option value="English">English</option>
+                    <option value="Gujarati">Gujarati</option>
+                    <option value="Marathi">Marathi</option>
+                    <option value="Hindi">Hindi</option>
+                </select>
+                <span asp-validation-for="Medium" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="DateofBirth" class="form-label">Date of Birth</label>
+                <input asp-for="DateofBirth" class="form-control" type="date" />
+                <span asp-validation-for="DateofBirth" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="MobileNumber" class="form-label">Mobile Number</label>
+                <input asp-for="MobileNumber" class="form-control" placeholder="Enter Mobile Number" />
+                <span asp-validation-for="MobileNumber" class="text-danger"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="AlternativeMobileNumber" class="form-label">Alternative Mobile Number</label>
+                <input asp-for="AlternativeMobileNumber" class="form-control" placeholder="Alternative Mobile Number" />
+                <span asp-validation-for="AlternativeMobileNumber" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address" class="form-label">Address</label>
+            <input asp-for="Address" class="form-control" placeholder="Address" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="City" class="form-label">City</label>
+                <select asp-for="City" class="form-control">
+                    <option value="">Select City</option>
+                    <!-- Add other city options here -->
+                </select>
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="Region" class="form-label">Region</label>
+                <select asp-for="Region" class="form-control">
+                    <option value="">Select Region</option>
+                    <!-- Add other region options here -->
+                </select>
+                <span asp-validation-for="Region" class="text-danger"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label asp-for="PostalCode" class="form-label">Postal Code</label>
+                <input asp-for="PostalCode" class="form-control" />
+                <span asp-validation-for="PostalCode" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <label asp-for="Branch" class="form-label">Branch</label>
+                <select asp-for="Branch" class="form-control" asp-items="Html.GetEnumSelectList<Branch>()">
+                    <option value="">Select Branch</option>
+                    <!-- Enum options will be automatically populated -->
+                </select>
+                <span asp-validation-for="Branch" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="d-grid gap-2 col-6 mx-auto">
+            <button type="button" class="btn btn-primary btn-block" data-bs-toggle="modal" data-bs-target="#submitModal">Update</button>
+        </div>
+
+        <!-- Modal for Submission -->
+        <div class="modal fade" id="submitModal" tabindex="-1" aria-labelledby="submitModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="submitModalLabel">Confirm Submission</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            Notice: Please ensure that all the input fields have been filled in correctly. Are you sure you have entered valid input?
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" asp-action="Update" class="btn btn-secondary" data-bs-dismiss="modal">Confirm</button>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" asp-action="StudentDetails" class="btn btn-primary" data-bs-dismiss="modal">Make Duplicate</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

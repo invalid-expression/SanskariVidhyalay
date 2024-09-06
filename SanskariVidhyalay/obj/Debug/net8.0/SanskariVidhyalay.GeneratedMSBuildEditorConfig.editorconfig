@@ -17,71 +17,91 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SanskariVidhyalay
 build_property.RootNamespace = SanskariVidhyalay
-build_property.ProjectDir = D:\IT FUTURE\SanskariVidhyalay\SanskariVidhyalay\
+build_property.ProjectDir = C:\Users\X3\source\repos\SanskariVidhyalay\SanskariVidhyalay\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IT FUTURE\SanskariVidhyalay\SanskariVidhyalay
+build_property.MSBuildProjectDirectory = C:\Users\X3\source\repos\SanskariVidhyalay\SanskariVidhyalay
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/About.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Academics.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Academics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2FkZW1pY3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/AddmissionCriteria.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/AddmissionCriteria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRtaXNzaW9uQ3JpdGVyaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Admin.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Contact.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Departments.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Departments.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBhcnRtZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Events.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Events.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Index.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Privacy.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Home/StudentDetails.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/StudentDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/Error.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/SuccessMessage/Deleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzTWVzc2FnZVxEZWxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Home/SuccessMessage/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzTWVzc2FnZVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/_ViewImports.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/_ViewStart.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IT FUTURE/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/_Layout.cshtml]
+[C:/Users/X3/source/repos/SanskariVidhyalay/SanskariVidhyalay/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1bgtoan8r6

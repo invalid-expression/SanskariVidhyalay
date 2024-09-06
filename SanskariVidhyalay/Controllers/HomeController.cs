@@ -1,9 +1,14 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.Blazor;
+using NuGet.Protocol;
 using SanskariVidhyalay.Migrations.ContactDBMigrations;
 using SanskariVidhyalay.Model;
 using SanskariVidhyalay.Models;
 using SanskariVidhyalay.Services;
+using System.Data;
 using System.Diagnostics;
+using System.Dynamic;
 
 namespace SanskariVidhyalay.Controllers
 {
@@ -12,12 +17,15 @@ namespace SanskariVidhyalay.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IStudentEntriesService _studentEntriesService;
         private readonly IContact _contact;
-
-        public HomeController(ILogger<HomeController> logger, IStudentEntriesService studentEntriesService, IContact contact)
+        private readonly ICities _cities;
+        private readonly StudentEntriesDB _studentEntriesContext;
+        public HomeController(ILogger<HomeController> logger, IStudentEntriesService studentEntriesService, IContact contact, ICities cities, StudentEntriesDB studentEntriesContext)
         {
             _logger = logger;
             _studentEntriesService = studentEntriesService;
-            _contact = contact;         
+            _contact = contact;
+            _cities = cities;
+            _studentEntriesContext = studentEntriesContext;
         }
 
         public IActionResult Index()
@@ -36,16 +44,58 @@ namespace SanskariVidhyalay.Controllers
             if (ModelState.IsValid)
             {
                 _studentEntriesService.AddStudent(student);
-                return RedirectToAction("Index");
+                _cities.GetAllCities().ToList();
+
+                return RedirectToAction("Success");
             }
             return View();
         }
+
+        public IActionResult Edit(int StudentID)
+        {
+            var StudentEdit = _studentEntriesContext.StudentEntries.FirstOrDefault(e => e.StudentID == StudentID);
+            return View(StudentEdit);
+        }
+
+        public IActionResult Update(StudentEntries student, string Edit)
+        {
+            if (Edit == "Update")
+            {
+                var old_student_entries = _studentEntriesContext.StudentEntries.FirstOrDefault(e => e.StudentID == student.StudentID);
+                _studentEntriesContext.Entry(old_student_entries).CurrentValues.SetValues(student);
+                _studentEntriesContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                _studentEntriesService.AddStudent(student);
+                _cities.GetAllCities().ToList();
+                return RedirectToAction("Success");
+            }
+            
+        }
+        public IActionResult Delete(int StudentID)
+        {
+            var Data = _studentEntriesContext.StudentEntries.FirstOrDefault(e => e.StudentID == StudentID);
+            _studentEntriesContext.StudentEntries.Remove(Data);
+            _studentEntriesContext.SaveChanges();
+            return RedirectToAction("Index","Admin");
+        }
+
 
         public IActionResult Privacy()
         {
             return View();
         }
+        public IActionResult Deleted()
+        {
+            return View("SuccessMessage/Deleted");
+        }
 
+        public IActionResult Success()
+        {
+            return View("SuccessMessage/Success");
+        }
         public IActionResult About()
         {
             return View();
@@ -106,7 +156,49 @@ namespace SanskariVidhyalay.Controllers
                 StudentEntries = _studentEntriesService.GetAllStudents().ToList(),
                 Contacts = _contact.GetAllContact().ToList()
             };
+
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("Username")))
+            {
+                return RedirectToAction("Login", "Home");
+            }
             return View(viewModel);
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(Login model)
+        {
+            if (ModelState.IsValid)
+            {
+                if (model.Username == "admin" && model.Password == "password")
+                {
+
+                    HttpContext.Session.SetString("Username", model.Username);
+                    return RedirectToAction("Admin");
+                }
+                else
+                {
+                    if (model.Password != "password" && model.Username != "admin")
+                    {
+                        ModelState.AddModelError("Password", "Invalid password.");
+                        ModelState.AddModelError("Username", "Invalid username.");
+                    }
+                    else if (model.Password != "password")
+                    {
+                        ModelState.AddModelError("Password", "Invalid password.");
+                    }
+                    else if (model.Username != "admin")
+                    {
+                        ModelState.AddModelError("Username", "Invalid username.");
+                    }
+                    
+                }
+            } 
+            return View(model);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
